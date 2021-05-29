@@ -1,0 +1,17 @@
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Persistence\bin\Debug\netcoreapp3.1\DepartmentalStore.Persistence.deps.json
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Persistence\bin\Debug\netcoreapp3.1\DepartmentalStore.Persistence.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Persistence\bin\Debug\netcoreapp3.1\DepartmentalStore.Persistence.pdb
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Persistence\bin\Debug\netcoreapp3.1\DepartmentalStore.Domain.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Persistence\bin\Debug\netcoreapp3.1\DepartmentalStore.Domain.pdb
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Persistence\obj\Debug\netcoreapp3.1\DepartmentalStore.Persistence.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Persistence\obj\Debug\netcoreapp3.1\DepartmentalStore.Persistence.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Persistence\obj\Debug\netcoreapp3.1\DepartmentalStore.Persistence.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Persistence\obj\Debug\netcoreapp3.1\DepartmentalStore.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Persistence\obj\Debug\netcoreapp3.1\DepartmentalStore.Persistence.csproj.CopyComplete
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Persistence\obj\Debug\netcoreapp3.1\DepartmentalStore.Persistence.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Persistence\obj\Debug\netcoreapp3.1\DepartmentalStore.Persistence.pdb
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Persistence\bin\Debug\netcoreapp3.1\DepartmentalStore.Persistence.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Persistence\bin\Debug\netcoreapp3.1\DepartmentalStore.Persistence.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Persistence\obj\Debug\netcoreapp3.1\DepartmentalStore.Persistence.genruntimeconfig.cache
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Persistence\bin\Debug\netcoreapp3.1\DepartmentalStore.Application.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Persistence\bin\Debug\netcoreapp3.1\DepartmentalStore.Application.pdb

@@ -1,0 +1,12 @@
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Application\bin\Debug\netcoreapp3.1\DepartmentalStore.Application.deps.json
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Application\bin\Debug\netcoreapp3.1\DepartmentalStore.Application.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Application\bin\Debug\netcoreapp3.1\DepartmentalStore.Application.pdb
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Application\bin\Debug\netcoreapp3.1\DepartmentalStore.Domain.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Application\bin\Debug\netcoreapp3.1\DepartmentalStore.Domain.pdb
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Application\obj\Debug\netcoreapp3.1\DepartmentalStore.Application.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Application\obj\Debug\netcoreapp3.1\DepartmentalStore.Application.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Application\obj\Debug\netcoreapp3.1\DepartmentalStore.Application.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Application\obj\Debug\netcoreapp3.1\DepartmentalStore.Application.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Application\obj\Debug\netcoreapp3.1\DepartmentalStore.Application.csproj.CopyComplete
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Application\obj\Debug\netcoreapp3.1\DepartmentalStore.Application.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Application\obj\Debug\netcoreapp3.1\DepartmentalStore.Application.pdb
